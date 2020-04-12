@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../main.css" type="text/css"?>
+<svg id="body" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.72 261.38">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 1.12px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 0.86px;
+      }
+
+      .cls-4 {
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <title>character_01</title>
+  <g id="torso">
+    <rect class="cls-1" x="0.56" y="126.89" width="260.61" height="133.94" rx="7.2"/>
+    <g id="Tie">
+      <g>
+        <polygon class="cls-2" points="129.04 222.04 99.04 204.72 99.04 239.36 129.04 222.04"/>
+        <polygon class="cls-2" points="129.04 222.04 159.04 239.36 159.04 204.72 129.04 222.04"/>
+      </g>
+    </g>
+  </g>
+  <g id="head">
+    <polygon class="cls-3" points="128.62 205.06 246.76 0.43 10.47 0.43 128.62 205.06"/>
+  </g>
+  <g id="EyeL">
+    <circle class="cls-2" cx="88.01" cy="29.67" r="16.67"/>
+    <g id="PupilL">
+      <ellipse class="cls-2" cx="87.71" cy="30.28" rx="16.36" ry="3.94"/>
+    </g>
+    <g id="BrowL">
+      <line class="cls-2" x1="110.47" y1="9" x2="63.8" y2="8.43"/>
+    </g>
+    <g id="DeadL">
+      <line class="cls-4" x1="70.69" y1="13.9" x2="102.6" y2="46.56" opacity = "0"/>
+      <line class="cls-4" x1="71.63" y1="45.44" x2="104.48" y2="14.28" opacity = "0"/>
+    </g>
+  </g>
+  <g id="EyeR">
+    <circle class="cls-2" cx="164.53" cy="29.67" r="16.67"/>
+    <g id="PupilR">
+      <ellipse class="cls-2" cx="164.01" cy="30.28" rx="16.36" ry="3.94"/>
+    </g>
+    <g id="BrowR">
+      <line class="cls-2" x1="140.82" y1="8.64" x2="185.8" y2="7.89"/>
+    </g>
+    <g id="DeadR">
+      <line class="cls-4" x1="177.13" y1="14.77" x2="149.26" y2="46.28" opacity = "0"/>
+      <line class="cls-4" x1="149.88" y1="15.04" x2="179.64" y2="44.79" opacity = "0"/>
+    </g>
+  </g>
+  <g id="Nose">
+    <polygon class="cls-2" points="139.34 81.3 126.23 74.75 113.41 81.83 115.59 67.35 104.89 57.34 119.34 54.94 125.55 41.67 132.3 54.67 146.84 56.47 136.56 66.91 139.34 81.3"/>
+  </g>
+  <g id="Mouth">
+    <path class="cls-5" d="M177.82,185.58s28.48,13.94,49.7,0" transform="translate(-77.26 -73.23)"/>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+{
+    "sayings": [
+        {"mood": "happy", "perc":0.2, "saying":"Today is the greatest day I've ever known."},
+        {"mood": "happy", "perc":0.2, "saying":"I am very happy!"},
+        {"mood": "happy", "perc":0.2, "saying":"Nice to meet you!"},
+        {"mood": "happy", "perc":0.2, "saying":"I am having such fun"},
+        {"mood": "happy", "perc":0.2, "saying":"It is such a magical day"},
+        {"mood": "sad", "perc":0.2, "saying":"Its such a rainy day today."},
+        {"mood": "sad", "perc":0.2, "saying":"Sadfaces make me sad."},
+        {"mood": "sad", "perc":0.2, "saying":"I am close to crying."},
+        {"mood": "sad", "perc":0.2, "saying":"That is very hurtful."},
+        {"mood": "sad", "perc":0.2, "saying":"Such a sad day today."},
+        {"mood": "angry", "perc":0.2, "saying":"You wouldn't like me when I am angry."},
+        {"mood": "angry", "perc":0.2, "saying":"I am a rage monster."},
+        {"mood": "angry", "perc":0.2, "saying":"Get ready to be punched."},
+        {"mood": "angry", "perc":0.2, "saying":"I will stab you if I must."},
+        {"mood": "angry", "perc":0.2, "saying":"SOOOOO ANGRY!"},
+        {"mood": "neutral", "perc":0.2, "saying":"What is the point?"},
+        {"mood": "neutral", "perc":0.2, "saying":"Do I look like I care?"},
+        {"mood": "neutral", "perc":0.2, "saying":"No Motivation, what is your excuse?"},
+        {"mood": "neutral", "perc":0.2, "saying":"I just want to sleep."},
+        {"mood": "neutral", "perc":0.2, "saying":"So bored today..."}
+
+    ],
+
+    "compliments": [
+        "bork you have the shiniest nose hairs!",
+        "bork is awesome!",
+        "bork is the best dog!",
+        "bork is tasty!",
+        "bork is a fun game!",
+        "bork are not clumsy!",
+        "bork are the most fun!",
+        "Bulldog snorts sound like bork!",
+        "bork is awesome!",
+        "bork is chum!"
+    ],
+
+    "foods": [
+        {"foodName": "Oysters", "foodValue":5, "foodPoisoning":0.4},
+        {"foodName": "Sushi", "foodValue":25, "foodPoisoning":0.2},
+        {"foodName": "Steak", "foodValue":35, "foodPoisoning":0.1},
+        {"foodName": "Sandwhich", "foodValue":45, "foodPoisoning":0.5},
+        {"foodName": "Wings", "foodValue":55, "foodPoisoning":0.02},
+        {"foodName": "Chicken", "foodValue":65, "foodPoisoning":0.03},
+        {"foodName": "Lobster", "foodValue":75, "foodPoisoning":0.04},
+        {"foodName": "Shrimp", "foodValue":85, "foodPoisoning":0.09},
+        {"foodName": "Dog", "foodValue":95, "foodPoisoning":0.08},
+        {"foodName": "Horse", "foodValue":15, "foodPoisoning":0.07}
+    ]
+
+}

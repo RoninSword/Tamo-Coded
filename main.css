@@ -1,0 +1,23 @@
+#character{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+#char{
+align-content: center;
+}
+
+#options{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;;
+}

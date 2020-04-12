@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tamo pet by Michael Bradley</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script src="tamogotchi.js"></script>
+    <script src="TweenMax.min.js"></script>
+</head>
+<body>
+    
+
+    
+    <h1>Tamagogatchi</h1>
+    <h2>Please enter your name before you bring him to life</h2>
+    <h3>Select a mood before you ask him to speak</h3>
+
+
+    <div id = "char">
+        <object id="character" type="image/svg+xml" data="images/character_01.svg"></object>
+    </div>
+
+         <legend>Information</legend>
+
+         <div>Food Remaining: <p style = "display: inline" id = "Fword"></p> </div>
+         <div>Status: <p style = "display: inline" id = "status"></p></div>
+         <div>Speech: <p style = "display: inline" id = "words"></p></div>
+        
+       
+    <br>
+    <div id = "options">
+    Name: <input id = "FirstName" type = "text" name = "FirstName">
+    <input id = "happy" type = "radio" name = "mood" value = "happy"> Happy
+    <input id = "sad" type = "radio" name = "mood" value = "sad"> Sad
+    <input id = "angry" type = "radio" name = "mood" value = "angry"> Angry
+    <input id = "neutral" type = "radio" name = "mood" value = "neutral"> Neutral
+    <button type = "button" id = "beer">Feed Beer</button>
+    <button type = "button" id = "coffee">Feed Coffee</button>
+    <button type = "button" id = "food">Feed Him!</button>
+    <button type = "button" id = "speak">Speak</button>
+    <button type = "button" id = "compliment">Compliment</button>
+    <button type = "button" id = "alive">Bring to life!</button>
+</div>
+
+</body>
+</html>
